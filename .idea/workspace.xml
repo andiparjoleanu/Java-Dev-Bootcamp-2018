@@ -46,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VehicleInfoDao.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="VehicleInfoDao.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/org/bootcamp/dao/VehicleInfoDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,8 +75,8 @@
       <file leaf-file-name="VehicleInfoPlanFileInfoDao.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/org/bootcamp/dao/VehicleInfoPlanFileInfoDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="34" column="77" selection-start-line="34" selection-start-column="77" selection-end-line="34" selection-end-column="77" />
+            <state relative-caret-position="538">
+              <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -120,11 +120,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InsuranceCalculatorService.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="InsuranceCalculatorService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Source/InsuranceCalculatorService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            <state relative-caret-position="527">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -184,6 +187,7 @@
     <option name="width" value="1377" />
     <option name="height" value="735" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -308,15 +312,16 @@
       <option name="presentableId" value="Default" />
       <updated>1524145396366</updated>
       <workItem from="1524488030705" duration="15460000" />
-      <workItem from="1524574102072" duration="404000" />
+      <workItem from="1524574102072" duration="1203000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15864000" />
+    <option name="totallyTimeSpent" value="16663000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1377" height="735" extended-state="1" />
+    <frame x="-7" y="0" width="1377" height="735" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="TODO" order="8" />
@@ -331,7 +336,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19617929" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.41660544" />
       <window_info anchor="right" id="Database" order="0" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -364,6 +369,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="24" column="74" selection-start-line="24" selection-start-column="74" selection-end-line="24" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -441,6 +449,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -765,10 +776,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/bootcamp/dao/VehicleInfoDao.java">
+    <entry file="file://$PROJECT_DIR$/src/Source/InsuranceCalculatorService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        <state relative-caret-position="527">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -777,18 +788,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/bootcamp/dao/VehicleInfoPlanFileInfoDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="34" column="77" selection-start-line="34" selection-start-column="77" selection-end-line="34" selection-end-column="77" />
+        <state relative-caret-position="538">
+          <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Source/InsuranceCalculatorService.java">
+    <entry file="file://$PROJECT_DIR$/src/org/bootcamp/dao/VehicleInfoDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
